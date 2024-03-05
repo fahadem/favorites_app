@@ -1,6 +1,6 @@
 # favorites_app
 
-A new Flutter project.
+A new Flutter project to display favorites words.
 
 ## Getting Started
 
